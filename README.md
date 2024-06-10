@@ -10,18 +10,19 @@
 
 ## Материалы отдельных модулей
 ### 01. Введение в .NET
-**Лекции**
+#### Лекции
 01. Экосистема .Net ([презентация](/Modules/01.%20Introduction%20to%20.Net/01.%20.Net%20Ecosystem.pptx?raw=true), [запись](https://youtu.be/exB4impLQyE?si=QL4s52NBg77Vh2YN))
 02. Среда разработки ([презентация](/Modules/01.%20Introduction%20to%20.Net/02.%20.Net%20Development%20Environment.pptx?raw=true), [запись](https://youtu.be/BVDPAFH5om0?si=2fFbp4yOoSZKkL6d))
 
-**Практика**
+#### Практика
 01. [Задача](/Modules/01.%20Introduction%20to%20.Net/task.md)
 
+
 ### 02. Основы C# и Unit-тестирования
-**Лекции**
+#### Лекции
 01. Основы C# ([презентация](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/01.%20C%23%20language%20basic.pptx?raw=true), [запись](https://youtu.be/BnAoMyi_Wms?si=7TnWIjE_2tnjlfdo))
 
-**Практика**
+#### Практика
 01. [Задача](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/task.md)
 
 
