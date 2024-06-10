@@ -17,6 +17,14 @@
 **Практика**
 01. [Задача](/Modules/01.%20Introduction%20to%20.Net/task.md)
 
+### 02. Основы C# и Unit-тестирования
+**Лекции**
+01. Основы C# ([презентация](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/01.%20C%23%20language%20basic.pptx?raw=true), [запись](https://youtu.be/BnAoMyi_Wms?si=7TnWIjE_2tnjlfdo))
+
+**Практика**
+01. [Задача](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/task.md)
+
+
 
 ## Прочие материалы
 
