@@ -21,6 +21,8 @@
 ### 02. Основы C# и Unit-тестирования
 #### Лекции
 01. Основы C# ([презентация](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/01.%20C%23%20language%20basic.pptx?raw=true), [запись](https://youtu.be/BnAoMyi_Wms?si=7TnWIjE_2tnjlfdo))
+02. Автоматизация тестирования ([презентация](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/02.%20Test%20automation.pptx?raw=true), [запись](https://youtu.be/Am_lV0ZO0a8?si=EXzFg5gCG1Xdcpp8))
+03. Модульное тестирование ([презентация](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/03.%20Unit%20tests.pptx?raw=true), [запись](https://youtu.be/r6jSOymZsoo))
 
 #### Практика
 01. [Задача](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/task.md)
