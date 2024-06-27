@@ -34,6 +34,7 @@
 02. Обобщения (дженерики) ([презентация](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/02.%20Generics.pptx?raw=true), [запись](https://youtu.be/014-Ytthvws))
 03. Делегаты, события, лямбды ([презентация](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/03.%20Delegates%2C%20Events%20and%20Lambdas.pptx?raw=true), [запись](https://youtu.be/FiXZKe7D8Rg))
 04. Обработка исключений ([презентация](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/04.%20Exception%20handling.pptx?raw=true), [запись](https://youtu.be/PBKuARjhVSM))
+05. Кортежи, записи и анонимные типы ([презентация](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/05.%20Tuples%2C%20records%20and%20anonymous%20types.pptx?raw=true), [запись](https://youtu.be/IfWdVvoeIXw))
 
 #### Практика
 01. [Задача](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/task.md)
