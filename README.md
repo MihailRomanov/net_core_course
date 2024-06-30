@@ -35,6 +35,8 @@
 03. Делегаты, события, лямбды ([презентация](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/03.%20Delegates%2C%20Events%20and%20Lambdas.pptx?raw=true), [запись](https://youtu.be/FiXZKe7D8Rg))
 04. Обработка исключений ([презентация](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/04.%20Exception%20handling.pptx?raw=true), [запись](https://youtu.be/PBKuARjhVSM))
 05. Кортежи, записи и анонимные типы ([презентация](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/05.%20Tuples%2C%20records%20and%20anonymous%20types.pptx?raw=true), [запись](https://youtu.be/IfWdVvoeIXw))
+06. Дополнительные возможности C# ([презентация](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/06.%20Additional%20C%23%20features.pptx?raw=true), [запись](https://youtu.be/Z7x3hxpal7g))
+07. Сопоставление с образцом ([презентация](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/07.%20Pattern%20matching.pptx?raw=true), [запись](https://youtu.be/g6miwMgVKVY))
 
 #### Практика
 01. [Задача](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/task.md)
