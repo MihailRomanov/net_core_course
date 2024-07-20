@@ -41,6 +41,13 @@
 #### Практика
 01. [Задача](/Modules/03.%20Type%20construction%20and%20Advanced%20C%23/task.md)
 
+### 04. Основы Basic Class Library (BCL)
+#### Лекции
+
+01. Введение в BCL ([презентация](/Modules/04.%20Basic%20BCL/01.%20Introduction%20to%20BCL.pptx?raw=true), [запись](https://youtu.be/r55-CweUKTY))
+02. Элементарные типы ([презентация](/Modules/04.%20Basic%20BCL/02.%20Elemetary%20types.pptx?raw=true), [запись](hhttps://youtu.be/T7VSUlyYS9E))
+03. Nullable типы ([презентация](/Modules/04.%20Basic%20BCL/03.%20Nullable%20types.pptx?raw=true), [запись](https://youtu.be/ZmzkWC6033U))
+
 
 ## Прочие материалы
 
