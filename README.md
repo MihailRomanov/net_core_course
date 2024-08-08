@@ -47,6 +47,14 @@
 01. Введение в BCL ([презентация](/Modules/04.%20Basic%20BCL/01.%20Introduction%20to%20BCL.pptx?raw=true), [запись](https://youtu.be/r55-CweUKTY))
 02. Элементарные типы ([презентация](/Modules/04.%20Basic%20BCL/02.%20Elemetary%20types.pptx?raw=true), [запись](https://youtu.be/T7VSUlyYS9E))
 03. Nullable типы ([презентация](/Modules/04.%20Basic%20BCL/03.%20Nullable%20types.pptx?raw=true), [запись](https://youtu.be/ZmzkWC6033U))
+04. Массивы и коллекции
+    - Массивы и коллекции ([презентация](/Modules/04.%20Basic%20BCL/04.01.%20Arrays%20and%20collections.pptx?raw=true), [запись](https://youtu.be/jDqPCrcgh4g))
+    - Специальные коллекции ([презентация](/Modules/04.%20Basic%20BCL/04.02.%20Special%20collections.pptx?raw=true), [запись](https://youtu.be/ssGVbUoC9VA))
+05. Ввод-вывод, файлы, потоки ([презентация](/Modules/04.%20Basic%20BCL/05.%20Streams%20and%20File%20System.pptx?raw=true), [запись](https://youtu.be/kDIW16ZVBeU))
+06. Шаблоны (паттерны) проектирования для .Net ([презентация](/Modules/04.%20Basic%20BCL/06.%20Design%20patterns.pptx?raw=true), [запись](https://youtu.be/EYtczWo1eos))
+
+#### Практика
+01. [Задача](/Modules/04.%20Basic%20BCL/task.md)
 
 
 ## Прочие материалы
