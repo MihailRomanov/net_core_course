@@ -5,6 +5,7 @@
 Записи всех лекций с можно найти в плей-листе:
 - [Курс Основы .NET (YouTube)](https://youtube.com/playlist?list=PLEM3ZGqESlYS-IkVpkrCI74iaMWtru_9x&si=zOOOzG-JONHuh7oz)
 - [Курс Основы .NET (VK Video)](https://vk.com/video/playlist/871595788_1)
+- [Курс Основы .NET (Rutube)](https://rutube.ru/plst/488407)
 
 Исходные материалы ввсех модулей в папке [Modules](./Modules)
 
@@ -55,6 +56,7 @@
 05. Ввод-вывод, файлы, потоки ([презентация](/Modules/04.%20Basic%20BCL/05.%20Streams%20and%20File%20System.pptx?raw=true), [запись](https://youtu.be/kDIW16ZVBeU))
 06. Шаблоны (паттерны) проектирования для .Net ([презентация](/Modules/04.%20Basic%20BCL/06.%20Design%20patterns.pptx?raw=true), [запись](https://youtu.be/EYtczWo1eos))
 07. Разработка (проектирование) через тестирование ([презентация](/Modules/04.%20Basic%20BCL/07.%20Test-Driven%20Development.pptx?raw=true), [запись](https://youtu.be/i-bHlyeeBwU))
+08. Строки и текст ([презентация](/Modules/04.%20Basic%20BCL/08.%20Strings%20and%20texts.pptx?raw=true), [запись](https://youtu.be/9ihKlAz5DR8))
 
 #### Практика
 01. [Задача](/Modules/04.%20Basic%20BCL/task.md)
