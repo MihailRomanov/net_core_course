@@ -62,7 +62,7 @@
 01. [Задача](/Modules/04.%20Basic%20BCL/task.md)
 
 
-### 04. LINQ
+### 05. LINQ
 #### Лекции
 
 01. Введение в LINQ ([презентация](/Modules/05.%20LINQ/01.%20Introduction%20to%20LINQ.pptx?raw=true), [запись](https://youtu.be/pTIN-2h5fnc))
