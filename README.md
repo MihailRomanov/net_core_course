@@ -24,7 +24,7 @@
 ### 02. Основы C# и Unit-тестирования
 #### Лекции
 01. Основы C# ([презентация](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/01.%20C%23%20language%20basic.pptx?raw=true), [запись](https://youtu.be/BnAoMyi_Wms))
-02. Автоматизация тестирования ([презентация](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/02.%20Test%20automation.pptx?raw=true), [запись](https://youtu.be/Am_lV0ZO0a8))
+02. Автоматизация тестирования ([презентация](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/02.%20Test%20automation.pptx?raw=true), [запись](https://youtu.be/Am_lV0ZO0a8), [примеры](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/Samples/02_Test_automation))
 03. Модульное тестирование ([презентация](/Modules/02.%20Basic%20C%23%20and%20Unit-testing/03.%20Unit%20tests.pptx?raw=true), [запись](https://youtu.be/r6jSOymZsoo))
 
 #### Практика
@@ -66,6 +66,7 @@
 #### Лекции
 
 01. Введение в LINQ ([презентация](/Modules/05.%20LINQ/01.%20Introduction%20to%20LINQ.pptx?raw=true), [запись](https://youtu.be/pTIN-2h5fnc))
+02. Expressions и IQueryable ([презентация](/Modules/05.%20LINQ/02.%20Expressions%20and%20IQueryable.pptx?raw=true), [запись](https://youtu.be/YSNyjwR_6ZE), [примеры](/Modules/05.%20LINQ/Samples/02.%20Expressions%20and%20IQueryable))
 
 #### Практика
 01. [Задача](/Modules/05.%20LINQ/Tasks/01.%20Introduction%20to%20LINQ/task.md)
