@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -164,7 +164,7 @@ namespace Task.Data
 
 
 			customerList = (
-				from e in XDocument.Parse(Properties.Resources.Customers).
+				from e in XDocument.Parse(SampleQueries.Properties.Resource.Customers).
 						  Root.Elements("customer")
 				select new Customer
 				{
