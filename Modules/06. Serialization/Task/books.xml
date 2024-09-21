@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog xmlns="http://library.by/catalog" date="2016-02-05">
+  <book id="bk101">
+    <isbn>0-596-00103-7</isbn>
+    <author>Löwy, Juval</author>
+    <title>COM and .NET Component Services</title>
+    <genre>Computer</genre>
+    <publisher>O'Reilly</publisher>
+    <publish_date>2001-09-01</publish_date>
+    <description>
+      COM &amp; .NET Component Services provides both traditional COM programmers and new .NET
+      component developers with the information they need to begin developing applications that take full advantage of COM+ services.
+      This book focuses on COM+ services, including support for transactions, queued components, events, concurrency management, and security
+    </description>
+    <registration_date>2016-01-05</registration_date>
+  </book>
+  <book id="bk102">
+    <author>Ralls, Kim</author>
+    <title>Midnight Rain</title>
+    <genre>Fantasy</genre>
+    <publisher>R &amp; D</publisher>
+    <publish_date>2000-12-16</publish_date>
+    <description>
+      A former architect battles corporate zombies,
+      an evil sorceress, and her own childhood to become queen
+      of the world.
+    </description>
+    <registration_date>2017-01-01</registration_date>
+  </book>
+  <book id="bk103">
+    <author>Corets, Eva</author>
+    <title>Maeve Ascendant</title>
+    <genre>Fantasy</genre>
+    <publisher>R &amp; D</publisher>
+    <publish_date>2000-11-17</publish_date>
+    <description>
+      After the collapse of a nanotechnology
+      society in England, the young survivors lay the
+      foundation for a new society.
+    </description>
+    <registration_date>2016-01-05</registration_date>
+  </book>
+  <book id="bk104">
+    <author>Corets, Eva</author>
+    <title>Oberon's Legacy</title>
+    <genre>Fantasy</genre>
+    <publisher>R &amp; D</publisher>
+    <publish_date>2001-03-10</publish_date>
+    <description>
+      In post-apocalypse England, the mysterious
+      agent known only as Oberon helps to create a new life
+      for the inhabitants of London. Sequel to Maeve
+      Ascendant.
+    </description>
+    <registration_date>2012-03-01</registration_date>
+  </book>
+  <book id="bk105">
+    <author>Corets, Eva</author>
+    <title>The Sundered Grail</title>
+    <genre>Fantasy</genre>
+    <publisher>R &amp; D</publisher>
+    <publish_date>2001-09-10</publish_date>
+    <description>
+      The two daughters of Maeve, half-sisters,
+      battle one another for control of England. Sequel to
+      Oberon's Legacy.
+    </description>
+    <registration_date>2016-01-05</registration_date>
+  </book>
+  <book id="bk106">
+    <author>Randall, Cynthia</author>
+    <title>Lover Birds</title>
+    <genre>Romance</genre>
+    <publisher>R &amp; D</publisher>
+    <publish_date>2000-09-02</publish_date>
+    <description>
+      When Carla meets Paul at an ornithology
+      conference, tempers fly as feathers get ruffled.
+    </description>
+    <registration_date>2016-01-05</registration_date>
+  </book>
+  <book id="bk107">
+    <author>Thurman, Paula</author>
+    <title>Splish Splash</title>
+    <genre>Romance</genre>
+    <publisher>R &amp; D</publisher>
+    <publish_date>2000-11-02</publish_date>
+    <description>
+      A deep sea diver finds true love twenty
+      thousand leagues beneath the sea.
+    </description>
+    <registration_date>2012-01-05</registration_date>
+  </book>
+  <book id="bk108">
+    <author>Knorr, Stefan</author>
+    <title>Creepy Crawlies</title>
+    <genre>Horror</genre>
+    <publisher>R &amp; D</publisher>
+    <publish_date>2000-12-06</publish_date>
+    <description>
+      An anthology of horror stories about roaches,
+      centipedes, scorpions  and other insects.
+    </description>
+    <registration_date>2011-01-05</registration_date>
+  </book>
+  <book id="bk109">
+    <author>Kress, Peter</author>
+    <title>Paradox Lost</title>
+    <genre>Science Fiction</genre>
+    <publisher>R &amp; D</publisher>
+    <publish_date>2000-11-02</publish_date>
+    <description>
+      After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems
+      of being quantum.
+    </description>
+    <registration_date>2016-01-05</registration_date>
+  </book>
+  <book id="bk110">
+    <author>O'Brien, Tim</author>
+    <title>Microsoft .NET: The Programming Bible</title>
+    <genre>Computer</genre>
+    <publisher>R &amp; D</publisher>
+    <publish_date>2000-12-09</publish_date>
+    <description>
+      Microsoft's .NET initiative is explored in
+      detail in this deep programmer's reference.
+    </description>
+    <registration_date>2014-10-01</registration_date>
+  </book>
+  <book id="bk111">
+    <author>O'Brien, Tim</author>
+    <title>MSXML3: A Comprehensive Guide</title>
+    <genre>Computer</genre>
+    <publisher>Microsoft</publisher>
+    <publish_date>2000-12-01</publish_date>
+    <description>
+      The Microsoft MSXML3 parser is covered in
+      detail, with attention to XML DOM interfaces, XSLT processing,
+      SAX and more.
+    </description>
+    <registration_date>2010-03-15</registration_date>
+  </book>
+  <book id="bk112">
+    <author>Galos, Mike</author>
+    <title>Visual Studio 7: A Comprehensive Guide</title>
+    <genre>Computer</genre>
+    <publisher>Microsoft</publisher>
+    <publish_date>2001-04-16</publish_date>
+    <description>
+      Microsoft Visual Studio 7 is explored in depth,
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are
+      integrated into a comprehensive development
+      environment.
+    </description>
+    <registration_date>2011-04-25</registration_date>
+  </book>
+</catalog>

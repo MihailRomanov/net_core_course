@@ -1,0 +1,51 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Catalog",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "books": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Book"
+      }
+    }
+  },
+  "definitions": {
+    "Book": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "autor_names": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Author"
+          }
+        },
+        "page_count": {
+          "type": "integer",
+          "format": "int32"
+        }
+      }
+    },
+    "Author": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "last_name": {
+          "type": "string"
+        },
+        "year": {
+          "type": "integer",
+          "format": "int32"
+        }
+      }
+    }
+  }
+}
