@@ -74,7 +74,7 @@
 ### 06. Сериализация
 #### Лекции
 
-01. Сериализация ([презентация](/Modules/06.%20Serialization/01.%20Serialization.pptx?raw=true), [запись]())
+01. Сериализация ([презентация](/Modules/06.%20Serialization/01.%20Serialization.pptx?raw=true), [запись](https://youtu.be/fqeiVBvxxIc))
 
 #### Практика
 01. [Задача](/Modules/06.%20Serialization/Task/task.md)
