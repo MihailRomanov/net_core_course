@@ -1,0 +1,11 @@
+[Unit]
+Description=image processing service
+After=network.target
+
+[Service]
+WorkingDirectory=/tmp
+ExecStart=/usr/sbin/ImageProcessingService
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
