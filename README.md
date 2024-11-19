@@ -79,6 +79,19 @@
 #### Практика
 01. [Задача](/Modules/06.%20Serialization/Task/task.md)
 
+
+### 07. Enterprise BCL
+#### Лекции
+
+01. Хостинг и DI ([презентация](/Modules/07.%20Enterprise%20BCL/01.%20Host%20and%20DI.pptx?raw=true), [запись](https://youtu.be/ZL1m0hxvNxM))
+02. Конфигурации, опции и командная строка ([презентация](/Modules/07.%20Enterprise%20BCL/02.%20Configuration%2C%20options%20and%20command%20line.pptx?raw=true), [запись](https://youtu.be/P_ggfVS_Gw8))
+
+
+#### Практика
+01. [Задача №1](/Modules/07.%20Enterprise%20BCL/task_01.md)
+
+
+
 ## Прочие материалы
 
 - [Туториал по Git](https://githowto.com/ru) - очень простой пошаговый курс по работе с Git рекомендую всем, кто не очень уверен в своих знаниях (даже если вы считаете, что знаете Git не плохо, пробегитесь и освежите в памяти)
