@@ -85,10 +85,13 @@
 
 01. Хостинг и DI ([презентация](/Modules/07.%20Enterprise%20BCL/01.%20Host%20and%20DI.pptx?raw=true), [запись](https://youtu.be/ZL1m0hxvNxM))
 02. Конфигурации, опции и командная строка ([презентация](/Modules/07.%20Enterprise%20BCL/02.%20Configuration%2C%20options%20and%20command%20line.pptx?raw=true), [запись](https://youtu.be/P_ggfVS_Gw8))
-
+03. Локализация и ресурсы ([презентация](/Modules/07.%20Enterprise%20BCL/03.%20Localization%20and%20resources.pptx?raw=true), [запись](https://youtu.be/yGV9Iv4xBiw))
+04. Верификация / валидация ([презентация](/Modules/07.%20Enterprise%20BCL/04.%20Validation.pptx?raw=true), [запись](https://youtu.be/RuTZVpU5eRU))
+05. Логи и метрики ([презентация](/Modules/07.%20Enterprise%20BCL/05.%20Logs%20and%20metrics.pptx?raw=true), [запись](https://youtu.be/8zhWuRq-oFs))
 
 #### Практика
 01. [Задача №1](/Modules/07.%20Enterprise%20BCL/task_01.md)
+02. [Задача №2](/Modules/07.%20Enterprise%20BCL/task_02.md)
 
 
 
