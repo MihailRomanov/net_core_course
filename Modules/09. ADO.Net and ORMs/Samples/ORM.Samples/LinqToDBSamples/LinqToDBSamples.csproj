@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\CopyMe.SqlServer.tt.txt" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\DataAnnotations.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\DataModel.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\EditableObject.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\Equatable.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\Humanizer.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.SqlServer.SqlTypes.Tools.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.SqlServer.Tools.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.SqlServer.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.Tools.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\MultipleFiles.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\NotifyDataErrorInfo.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\NotifyPropertyChanged.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\ObsoleteAttributes.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\PluralizationService.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\T4Model.ttinclude" />
+    <None Remove="C:\Users\romanov.m\.nuget\packages\linq2db.sqlserver\5.4.1\contentFiles\any\any\LinqToDB.Templates\Validation.ttinclude" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="coverlet.collector" Version="6.0.2">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="linq2db.SqlServer" Version="5.4.1" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.11.1" />
+    <PackageReference Include="NUnit" Version="4.2.2" />
+    <PackageReference Include="NUnit.Analyzers" Version="4.3.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="NUnit3TestAdapter" Version="4.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Using Include="NUnit.Framework" />
+  </ItemGroup>
+
+</Project>

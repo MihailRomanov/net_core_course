@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping 
+    xmlns="urn:nhibernate-mapping-2.2" 
+    assembly="NHibernateSamples" 
+    namespace="NHibernateSamples.Model" 
+    schema="Northwind">
+    
+    <class name="Category" table="Categories">
+        <id name="Id" column="CategoryId" generator="identity">
+        </id>
+        <property name="Name" column="CategoryName" />
+        <property name="Description"/>
+        <property name="Picture"/>
+    </class>
+
+    <class name="Product" table="Products">
+        <id name="Id" column="ProductID" generator="identity"></id>
+        <property name="Name" column="ProductName"/>
+        <many-to-one name="Category" class="Category" column="CategoryId" />
+        <property name="QuantityPerUnit"/>
+        <property name="UnitPrice" />
+        <property name="UnitsInStock" />
+        <property name="UnitsOnOrder" />
+        <property name="ReorderLevel" />
+        <property name="Discontinued" />
+    </class>
+</hibernate-mapping>
