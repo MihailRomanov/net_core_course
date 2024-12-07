@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadSample", "LoadSample\LoadSample.csproj", "{E2FA5D30-EC95-44EB-B5DB-C44989FB85F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadSampleLib", "LoadSampleLib\LoadSampleLib.csproj", "{005D2E26-2820-4B32-B5F7-FA900FB65E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryService", "MemoryService\MemoryService.csproj", "{933AA89D-FCD7-49B1-8708-E3E5C1DE10B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2FA5D30-EC95-44EB-B5DB-C44989FB85F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FA5D30-EC95-44EB-B5DB-C44989FB85F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FA5D30-EC95-44EB-B5DB-C44989FB85F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FA5D30-EC95-44EB-B5DB-C44989FB85F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{005D2E26-2820-4B32-B5F7-FA900FB65E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{005D2E26-2820-4B32-B5F7-FA900FB65E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{005D2E26-2820-4B32-B5F7-FA900FB65E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{005D2E26-2820-4B32-B5F7-FA900FB65E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{933AA89D-FCD7-49B1-8708-E3E5C1DE10B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{933AA89D-FCD7-49B1-8708-E3E5C1DE10B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{933AA89D-FCD7-49B1-8708-E3E5C1DE10B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{933AA89D-FCD7-49B1-8708-E3E5C1DE10B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

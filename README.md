@@ -94,6 +94,14 @@
 02. [Задача №2](/Modules/07.%20Enterprise%20BCL/task_02.md)
 
 
+### 08. .Net Runtime
+#### Лекции
+01. Механизмы .Net Runtime([презентация](/Modules/08.%20Runtime/01.%20.Net%20Runtime%20services.pptx?raw=true), [запись](https://youtu.be/VVoN8NVhvRg))
+02. Рефлексия, атрибуты и генерация IL-кода ([презентация](/Modules/08.%20Runtime/02.%20Reflection%20and%20code%20emitting.pptx?raw=true), [запись](https://youtu.be/2s1aISpymQg))
+
+#### Практика
+01. [Задача](/Modules/08.%20Runtime/Task/task.md)
+
 
 ## Прочие материалы
 
