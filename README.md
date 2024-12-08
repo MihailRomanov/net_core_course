@@ -103,6 +103,17 @@
 01. [Задача](/Modules/08.%20Runtime/Task/task.md)
 
 
+### 09. ADO.Net and ORMs
+#### Лекции
+01. Основы ADO.Net ([презентация](/Modules/09.%20ADO.Net%20and%20ORMs/01.%20ADO.Net%20Basic.pptx?raw=true), [запись](https://youtu.be/EyuoSjT4gwc))
+02. Connected model в ADO.Net ([презентация](/Modules/09.%20ADO.Net%20and%20ORMs/02.%20ADO.Net%20Connected%20model.pptx?raw=true), [запись](https://youtu.be/GjK_HXfxCRk))
+03. Введение в ORM ([презентация](/Modules/09.%20ADO.Net%20and%20ORMs/03.%20Introduction%20to%20ORM.pptx?raw=true), [запись](https://youtu.be/HSefPRzyan0))
+04. Entity Framework Core ([презентация](/Modules/09.%20ADO.Net%20and%20ORMs/04.%20EF%20Core.pptx?raw=true), [запись](https://youtu.be/stpGj-SzK54))
+
+#### Практика
+01. [Задача](/Modules/09.%20ADO.Net%20and%20ORMs/Task/task.md)
+
+
 ## Прочие материалы
 
 - [Туториал по Git](https://githowto.com/ru) - очень простой пошаговый курс по работе с Git рекомендую всем, кто не очень уверен в своих знаниях (даже если вы считаете, что знаете Git не плохо, пробегитесь и освежите в памяти)
