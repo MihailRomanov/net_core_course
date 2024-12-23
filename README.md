@@ -115,6 +115,7 @@
 
 
 ### Вопросы и ответы №1
+ФС, DI, EF Core ([презентация](/Modules/Q%26A%20%231/Q%26A%20%231.pptx?raw=true), [запись](https://youtu.be/tn3u3wUizjg), [пример](/Modules/Q%26A%20%231/Samples/ImageProcessingService2))
 
 
 ## Прочие материалы
