@@ -118,6 +118,15 @@
 ФС, DI, EF Core ([презентация](/Modules/Q%26A%20%231/Q%26A%20%231.pptx?raw=true), [запись](https://youtu.be/tn3u3wUizjg), [пример](/Modules/Q%26A%20%231/Samples/ImageProcessingService2))
 
 
+### 10. Многопоточное и асинхронное программирование
+#### Лекции
+01. Введение в конкурентное программирование ([презентация](/Modules/10.%20Async%20and%20Multithreading/01.%20Introduction%20to%20concurrency.pptx?raw=true), [запись](https://youtu.be/4tC8j-7NukQ))
+02. Асинхронное программирование ([презентация](/Modules/10.%20Async%20and%20Multithreading/02.%20Async.pptx?raw=true), [запись](https://youtu.be/4ndx73NyPFg))
+
+#### Практика
+01. [Задача](/Modules/10.%20Async%20and%20Multithreading/task.md)
+
+
 ## Прочие материалы
 
 - [Туториал по Git](https://githowto.com/ru) - очень простой пошаговый курс по работе с Git рекомендую всем, кто не очень уверен в своих знаниях (даже если вы считаете, что знаете Git не плохо, пробегитесь и освежите в памяти)
