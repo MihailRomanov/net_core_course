@@ -129,7 +129,7 @@
 
 ### 11. Сборка, деплой и CI/CD
 #### Лекции
-01. Сборка ([презентация](/Modules/Modules/11.%20Build%2C%20deploy%20and%20CI_CD/01.%20Build.pptx?raw=true), [запись](https://youtu.be/e0iB3jBW8Ag))
+01. Сборка ([презентация](/Modules/11.%20Build%2C%20deploy%20and%20CI_CD/01.%20Build.pptx?raw=true), [запись](https://youtu.be/e0iB3jBW8Ag))
 02. Управление зависимостями ([презентация](/Modules/11.%20Build%2C%20deploy%20and%20CI_CD/02.%20Dependency%20management.pptx?raw=true), [запись](https://youtu.be/XY3i0KimGuM))
 
 
