@@ -133,6 +133,14 @@
 02. Управление зависимостями ([презентация](/Modules/11.%20Build%2C%20deploy%20and%20CI_CD/02.%20Dependency%20management.pptx?raw=true), [запись](https://youtu.be/XY3i0KimGuM))
 
 
+### 12. Базовый HTTP и основы ASP.Net Core
+#### Лекции
+01. Основы HTTP ([презентация](/Modules/12.%20Http%20and%20ASP.Net%20Core%20Intro/01.%20HTTP%20basic.pptx?raw=true), [запись](https://youtu.be/bGbNJy7xV-8))
+02. Асинхронное программирование ([презентация](/Modules/12.%20Http%20and%20ASP.Net%20Core%20Intro/02.%20Introduction%20to%20working%20with%20HTTP.pptx?raw=true), [запись](https://youtu.be/hvG9squm8iY))
+
+#### Практика
+01. [Задача](/Modules/12.%20Http%20and%20ASP.Net%20Core%20Intro/task.md)
+
 
 ## Прочие материалы
 
