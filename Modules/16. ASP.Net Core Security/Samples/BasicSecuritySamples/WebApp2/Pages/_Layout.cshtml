@@ -1,0 +1,25 @@
+@inject IHttpContextAccessor httpContextAccessor
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+@{
+    var user = httpContextAccessor.HttpContext?.User;
+    var userName =
+        (user == null
+            || user.Identity == null
+            || !user.Identity.IsAuthenticated)
+        ? "аноним"
+        : user.Identity.Name;
+}
+<body>
+    <div>Hello, @userName</div>
+    <div><a asp-page="/Account/Logout">Logout</a></div>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

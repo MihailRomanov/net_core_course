@@ -1,0 +1,17 @@
+@page
+@using WebApp2.Pages.Account
+@model WebApp2.Pages.Account.LoginModel
+@{
+    Layout = "_Layout";
+}
+<h1>Login</h1>
+
+<a asp-route="authinyandex">Через Yandex</a>
+
+<form asp-antiforgery="true">
+    <label asp-for="Login"></label> <br />
+    <input asp-for="Login" /> <br />
+    <label asp-for="Password"></label> <br />
+    <input asp-for="Password" type="password" /> <br /><br />
+    <button formmethod="post" >Send</button>
+</form>

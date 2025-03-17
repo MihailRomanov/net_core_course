@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/site.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        @RenderBody()
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Романов Михаил</p>
+        </footer>
+    </div>
+</body>
+</html>

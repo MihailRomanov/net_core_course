@@ -1,0 +1,23 @@
+﻿@page
+@model MyHomePageWebApp.Pages.GaleryModel
+@{
+    ViewBag.Title = "Галерея";
+}
+<h1>Галерея</h1>
+
+@{
+    foreach (var file in Model.FileInfos)
+    {
+        var path = $"/galery?fileName={file.Name}";
+        <label class="label" for="@file.Name">
+            @file.Name
+        </label>
+        <a href="@path">
+            <img class="img-rounded" 
+                width="100" 
+                id="@file.Name" 
+                src="@path">
+        </a>
+        <br />
+    }
+}

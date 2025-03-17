@@ -1,0 +1,19 @@
+@page
+@using WebApp1
+@model WebApp1.Pages.IndexModel
+@{
+    Layout = "_Layout";
+}
+<h1>Домашняя страница (RP)</h1>
+<a href="/Empty">Empty</a>
+<div>
+    <div>
+        @Model.HttpContext.Session.Id
+    </div>
+    <div>
+        @Model.HttpContext.Session.GetString(SessionVariables.SessionStart)
+    </div>
+    <div>
+        @TempData["Counter"]
+    </div>
+</div>

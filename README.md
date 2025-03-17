@@ -142,6 +142,40 @@
 01. [Задача](/Modules/12.%20Http%20and%20ASP.Net%20Core%20Intro/task.md)
 
 
+### 13. API и Web-сервисы
+#### Лекции
+01. Введение в сервисы ([презентация](/Modules/13.%20API%20and%20Web-services/01.%20Introduction%20to%20services.pptx?raw=true), [запись](https://youtu.be/PIT7yCdRCY0))
+02. ASP.Net Core API ([презентация](/Modules/13.%20API%20and%20Web-services/02.%20ASP.Net%20Core%20API.pptx?raw=true), [запись](https://youtu.be/bhm53Bs2dSw))
+
+#### Практика
+01. [Задача](/Modules/13.%20API%20and%20Web-services/task_01.md)
+
+### 14. Web-приложения на базе ASP.Net Core
+#### Лекции
+01. Web-приложения на базе ASP.Net Core ([презентация](/Modules/14.%20Web%20Applications%20ASP.Net%20Core/01.%20Web%20Applications%20in%20ASP.Net%20Core.pptx?raw=true), [запись](https://youtu.be/LlJNq6GXWKc))
+
+#### Практика
+01. [Задача](/Modules/14.%20Web%20Applications%20ASP.Net%20Core/task_01.md)
+
+### 16. Безопасность в ASP.Net Core
+#### Лекции
+01. Безопасность. Базовые термины ([презентация](/Modules/16.%20ASP.Net%20Core%20Security/01.%20Security.%20Base%20terms.pptx?raw=true), [запись](https://youtu.be/X9pAsEW2d4I))
+02. Безопасность в Web ([презентация](/Modules/16.%20ASP.Net%20Core%20Security/02.%20Security%20in%20Web.pptx?raw=true), [запись](https://youtu.be/YSxfgimIGdg))
+03. Базовое API безопасности в ASP.Net Core ([презентация](/Modules/16.%20ASP.Net%20Core%20Security/03.%20Basic%20Security%20API%20in%20ASP.Net%20Core.pptx?raw=true), [запись](https://youtu.be/GlR-liSP9wE))
+
+#### Практика
+01. [Задача](/Modules/16.%20ASP.Net%20Core%20Security/task_01.md)
+
+### 17. Кэширование, состояние и хостинг ASP.Net Core
+#### Лекции
+01. Кэширование в ASP.Net Core ([презентация](/Modules/17.%20Caching%2C%20state%20management%2C%20hosting%20in%20ASP.Net%20Core/01.%20Caching%20in%20ASP.Net%20Core.pptx?raw=true), [запись](https://youtu.be/XpPOkFAqkPk))
+02. Управление состоянием в ASP.Net Core Apps ([презентация](/Modules/17.%20Caching%2C%20state%20management%2C%20hosting%20in%20ASP.Net%20Core/02.%20State%20management%20in%20ASP.Net%20Core.pptx?raw=true), [запись](https://youtu.be/XMw0f7MxhWk))
+
+
+#### Практика
+01. [Задача](/Modules/17.%20Caching%2C%20state%20management%2C%20hosting%20in%20ASP.Net%20Core/task_01.md)
+
+
 ## Прочие материалы
 
 - [Туториал по Git](https://githowto.com/ru) - очень простой пошаговый курс по работе с Git рекомендую всем, кто не очень уверен в своих знаниях (даже если вы считаете, что знаете Git не плохо, пробегитесь и освежите в памяти)

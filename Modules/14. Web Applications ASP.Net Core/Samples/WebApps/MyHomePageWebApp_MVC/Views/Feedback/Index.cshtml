@@ -1,0 +1,27 @@
+@model IEnumerable<HomePageDb.FeedbackItem>
+
+<a asp-controller="Feedback" asp-action="Add">Добавить</a>
+
+<div class="mt-3">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td>Имя</td>
+                <td>Email</td>
+                <td>Текст</td>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.PersonName</td>
+                        <td>@item.Email</td>
+                        <td>@item.Text</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
