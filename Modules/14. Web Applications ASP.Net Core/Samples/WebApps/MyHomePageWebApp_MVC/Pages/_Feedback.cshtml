@@ -1,0 +1,48 @@
+﻿@page
+@model MyHomePageWebApp.Pages.FeedbackModel
+@{
+    ViewBag.Title = "Обратная связь";
+}
+
+<a href="/" class="nav-link nav-item">На главную</a>
+<h1>Оставить отзыв</h1>
+
+<form>
+    <div class="mb-3 mt-3">
+        <label class="form-label" asp-for="Email"></label>
+        <input class="form-control" asp-for="Email" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Text"></label>
+        <textarea class="form-control" rows="3" asp-for="Text"></textarea>
+    </div>
+    <button formmethod="post" type="submit" class="btn btn-primary">Сохранить</button>
+</form>
+
+<div class="mt-3">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <td>Имя</td>
+                <td>Email</td>
+                <td>Текст</td>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (var item in Model.FeedbackItems)
+                {
+                    <tr>
+                        <td>@item.PersonName</td>
+                        <td>@item.Email</td>
+                        <td>@item.Text</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

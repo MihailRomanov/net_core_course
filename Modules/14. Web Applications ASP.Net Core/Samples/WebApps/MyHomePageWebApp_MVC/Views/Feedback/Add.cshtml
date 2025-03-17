@@ -1,0 +1,21 @@
+@using MyHomePageWebApp.Models
+@model FeedbackViewModel
+
+<form>
+    <div class="mb-3 mt-3">
+        <label class="form-label" asp-for="Email"></label>
+        <input class="form-control" asp-for="Email" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Text"></label>
+        <textarea class="form-control" rows="3" asp-for="Text"></textarea>
+    </div>
+
+    <div asp-validation-summary="All"></div>
+
+    <button formmethod="post" type="submit" class="btn btn-primary">Сохранить</button>
+</form>

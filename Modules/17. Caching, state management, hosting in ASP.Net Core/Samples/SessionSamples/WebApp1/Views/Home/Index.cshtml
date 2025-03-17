@@ -1,0 +1,19 @@
+@using WebApp1
+@model HttpContext
+@{
+    Layout = "_Layout";
+}
+<h1>Домашняя страница</h1>
+
+<a href="./IndexRP">Страница RP</a>
+<div>
+    <div>
+        @Model.Session.Id
+    </div>
+    <div>
+        @Model.Session.GetString(SessionVariables.SessionStart)
+    </div>
+    <div>
+        @TempData["Counter"]
+    </div>
+</div>
